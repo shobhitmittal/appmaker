@@ -19,7 +19,7 @@
     "cors": "2.2.0",
     "ejs": "1.0.0",
     "ejs-locals": "1.0.2",
-    "express": "3.3.4",
+    "express": "4.19.2",
     "express-bundles": "git://github.com/simonwex/express-bundles#master",
     "express-persona": "0.1.1",
     "http-proxy": "1.1.1",
