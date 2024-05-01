@@ -17,7 +17,7 @@
     "connect-fonts": "1.0.0",
     "connect-fonts-sourcesanspro": "0.0.3",
     "cors": "2.2.0",
-    "ejs": "1.0.0",
+    "ejs": "3.1.10",
     "ejs-locals": "1.0.2",
     "express": "3.3.4",
     "express-bundles": "git://github.com/simonwex/express-bundles#master",
